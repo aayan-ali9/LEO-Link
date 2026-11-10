@@ -27,6 +27,17 @@ The project will investigate how channel noise, Doppler shift, and changing link
 
 ## Development Status
 
-Phase 0 — Repository initialization.
+### Completed
+- Repository initialization
+- Python development environment
+- Reproducible binary data generation
+- Automated tests for bit generation
 
-Development will proceed through incremental, tested milestones.
+### In Progress
+- BPSK modulation and signal mapping
+
+### Next Steps
+- AWGN channel modeling
+- BPSK demodulation
+- Bit error rate analysis
+- Theoretical BER validation
